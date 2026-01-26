@@ -41,6 +41,8 @@ yu-yu-hakusho-GAME/
   
 4. Execute a classe Game.java.
 
+---
+
 ## 📋 Roadmap
 - [x] Estrutura inicial do projeto
 
@@ -58,13 +60,19 @@ yu-yu-hakusho-GAME/
 
 - [ ] Golpes especiais e multiplayer local
 
+---
+
 ## 🤝 Contribuições
 Este é um projeto pessoal de aprendizado, mas sugestões e melhorias são bem-vindas!
 Sinta-se livre para abrir issues ou enviar pull requests.
 
+---
+
 ## ⚠️ Aviso legal
 Este projeto é não oficial e feito apenas para fins educacionais.
 Todos os direitos sobre Yu Yu Hakusho pertencem aos seus criadores e detentores originais.
+
+---
 
 ## 📷 Screenshots (em breve)
 Imagens do jogo em ação serão adicionadas conforme o desenvolvimento avança.
