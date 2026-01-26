@@ -1,4 +1,4 @@
-# 🌟 Yu⭐Yu⭐Hakusho-GAME (幽☆遊☆白書)
+# Yu⭐Yu⭐Hakusho-GAME (幽☆遊☆白書)
 
 ## 🎮 Sobre o projeto
 
