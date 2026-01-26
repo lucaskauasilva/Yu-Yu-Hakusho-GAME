@@ -9,6 +9,7 @@ O objetivo é recriar (ou aproximar) a experiência de um jogo de luta 2D, servi
 
 ## 🧱 Estrutura do projeto
 
+```plaintext
 📁 yu-yu-hakusho-GAME/
 ├── 📁 src/
 │   └── 📁 main/
