@@ -4,6 +4,7 @@
 
 ##🎯 Fase 1 — Fundamentos
 [ ] Criar estrutura inicial do projeto no IntelliJ
+
 [ ] Configurar JavaFX e testar uma janela simples
 [ ] Implementar tela inicial com botão Start
 [ ] Adicionar README com descrição do projeto
