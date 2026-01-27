@@ -1,8 +1,8 @@
-##🗺️ ROADMAP do Projeto Yu Yu Hakusho - GAME
+# 🗺️ ROADMAP do Projeto Yu Yu Hakusho - GAME
 
 ---
 
-##🎯 Fase 1 — Fundamentos
+## 🎯 Fase 1 — Fundamentos
 [ ] Criar estrutura inicial do projeto no IntelliJ
 
 [ ] Configurar JavaFX e testar uma janela simples
@@ -11,7 +11,7 @@
 
 ---
 
-##🕹️ Fase 2 — Mecânica básica
+## 🕹️ Fase 2 — Mecânica básica
 [ ] Criar classe Player com movimentação (andar, pular)
 [ ] Implementar controles via teclado
 [ ] Adicionar spritesheet de um personagem (ex: Yusuke)
@@ -19,7 +19,7 @@
 
 ---
 
-##⚔️ Fase 3 — Combate
+## ⚔️ Fase 3 — Combate
 [ ] Implementar ataques básicos (soco, chute)
 [ ] Adicionar detecção de colisão entre personagens
 [ ] Criar barra de vida (HUD)
@@ -27,7 +27,7 @@
 
 ---
 
-##🤖 Fase 4 — Inimigos e IA
+## 🤖 Fase 4 — Inimigos e IA
 [ ] Criar classe Enemy com movimentação automática
 [ ] Implementar lógica simples de ataque do inimigo
 [ ] Balancear dano e velocidade
@@ -35,7 +35,7 @@
 
 ---
 
-##🌌 Fase 5 — Cenários e estilo
+## 🌌 Fase 5 — Cenários e estilo
 [ ] Adicionar fundo (backgrounds) diferentes para cada luta
 [ ] Criar sistema de escolha de personagens
 [ ] Melhorar interface com menus e transições
@@ -43,7 +43,7 @@
 
 ---
 
-##🔥 Fase 6 — Polimento
+## 🔥 Fase 6 — Polimento
 [ ] Refatorar código para maior legibilidade
 [ ] Corrigir bugs de colisão e animação
 [ ] Documentar classes principais
@@ -51,7 +51,7 @@
 
 ---
 
-##🚀 Fase 7 — Expansão (opcional)
+## 🚀 Fase 7 — Expansão (opcional)
 [ ] Adicionar golpes especiais (ex: Leigan do Yusuke)
 [ ] Criar modo multiplayer local (2 jogadores no mesmo teclado)
 [ ] Implementar ranking de vitórias
