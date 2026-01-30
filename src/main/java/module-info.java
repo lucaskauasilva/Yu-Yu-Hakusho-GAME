@@ -5,4 +5,5 @@ module com.example.yuyuhakushogame {
 
     opens com.example.yuyuhakushogame to javafx.fxml;
     exports com.example.yuyuhakushogame;
+    exports core;
 }
