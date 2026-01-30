@@ -2,21 +2,21 @@
 
 ---
 
-## 🎯 Fase 1 — Fundamentos 🔄
+## 🎯 Fase 1 — Fundamentos ✅
 
 [✅] Criar estrutura inicial do projeto no IntelliJ
 
-[🔄] Configurar JavaFX e testar uma janela simples
+[✅] Configurar JavaFX e testar uma janela simples
 
-[] Implementar tela inicial com botão Start
+[✅] Implementar tela inicial com botão Start
 
-[ ] Adicionar README com descrição do projeto
+[✅] Adicionar README com descrição do projeto
 
 ---
 
-## 🕹️ Fase 2 — Mecânica básica
+## 🕹️ Fase 2 — Mecânica básica 🔄
 
-[ ] Criar classe Player com movimentação (andar, pular)
+[🔄] Criar classe Player com movimentação (andar, pular)
 
 [ ] Implementar controles via teclado
 
