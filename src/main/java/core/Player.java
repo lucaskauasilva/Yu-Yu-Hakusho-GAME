@@ -17,7 +17,7 @@ public class Player {
     private final double MOVE_SPEED = 5;
 
     public Player(Pane gamePane) {
-        Image image = new Image("sprites/yusuke.png");
+        Image image = new Image(getClass().getResourceAsStream("/sprites/yusuke.png"));
         sprite = new ImageView(image);
         sprite.setFitHeight(80);
         sprite.setFitWidth(80);
