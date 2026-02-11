@@ -16,13 +16,13 @@
 
 ## 🕹️ Fase 2 — Mecânica básica 🔄
 
-[🔄] Criar classe Player com movimentação (andar, pular)
+[✅] Criar classe Player com movimentação (andar, pular)
 
-[ ] Implementar controles via teclado
+[✅] Implementar controles via teclado
 
-[ ] Adicionar spritesheet de um personagem (ex: Yusuke)
+[✅] Adicionar spritesheet de um personagem (ex: Yusuke)
 
-[ ] Criar loop de jogo (GameLoop) para atualizar tela e lógica
+[✅] Criar loop de jogo (GameLoop) para atualizar tela e lógica
 
 ---
 
